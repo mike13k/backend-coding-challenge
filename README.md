@@ -13,5 +13,5 @@ Python 3.8 with Flask
     * b. navigate to `\path\to\myenv\Scripts`
     * c. `source activate`
 3. `pip install -r requirements.txt`
-4. `python manage.py run`
+4. cd into app/ and `python manage.py run`
 5. Open `localhost:5000` in browser.
